@@ -1,0 +1,1 @@
+# A-binary-classification-model-that-can-predict-male-female-from-Bengali-handwritten-digits
